@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-01-23T04:34:27.523Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="bywbdqPtZ2ExIdwjMsK9" version="20.8.10" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-23T04:35:17.615Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="mzXhnX8_xMU-odUL0CwV" version="20.8.10" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="2252" dy="503" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="2422" dy="869" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -255,17 +255,11 @@
         <mxCell id="nEXemfkZkfeI4yeKxdNY-2" value="d" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="358" y="480" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Y99NqYR2-ee6TdtlUfzP-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/KNchmfh.jpg;" vertex="1" parent="1">
-          <mxGeometry x="-10" y="1204" width="520" height="352" as="geometry" />
-        </mxCell>
         <mxCell id="Y99NqYR2-ee6TdtlUfzP-3" value="PATIENT" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
           <mxGeometry x="590" y="1120" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Y99NqYR2-ee6TdtlUfzP-4" value="DOCTOR" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
           <mxGeometry x="589" y="1240" width="100" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Y99NqYR2-ee6TdtlUfzP-5" value="Patient" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
-          <mxGeometry x="590" y="1060" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Y99NqYR2-ee6TdtlUfzP-8" value="WARD" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
           <mxGeometry x="589" y="1360" width="100" height="40" as="geometry" />
